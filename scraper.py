@@ -17,7 +17,7 @@ from helpers import (
     progress_for_pyrogram
 )
 import imageio
-from tqdm import tqdm
+import tqdm
 
 
 async def scrape(url):
