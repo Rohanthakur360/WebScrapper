@@ -9,13 +9,13 @@
     ],
     "env": {
         "BOT_TOKEN": {
-            "description": "6505721336:AAFai0KgWNTnXcBHG_UcmQbwnjGbn05BHtw"
+            "description": "here is your bot token"
         },
         "API_ID": {
-            "description": "29969547"
+            "description": "here is your api id"
         },
         "API_HASH": {
-            "description": "46e0fb58241ce6d8013d6554a4966ea8"
+            "description": "here is your api hash"
         }
     },
     "buildpacks": [
