@@ -17,10 +17,6 @@ from helpers import (
     progress_for_pyrogram
 )
 import imageio
-import time 
-from tqdm import tqdm
-
-for i in tqdm(range(10000)):
 
 async def scrape(url):
     try:
